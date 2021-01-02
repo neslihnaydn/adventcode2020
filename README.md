@@ -1,3 +1,3 @@
 # adventcode2020
 
-day1
+https://adventofcode.com/2020 
